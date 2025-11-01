@@ -1,0 +1,23 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Vercel
+.vercel/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+
+# System
+.DS_Store
+Thumbs.db
